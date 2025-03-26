@@ -3,6 +3,8 @@
 ## Overview
 This project sets up a Kafka-based data streaming pipeline on AWS, utilizing an EC2 instance for Kafka deployment, Jupyter notebooks for development, and AWS services like S3, Glue, and Athena for data storage and querying. The system processes real-time data from an Excel file, streams it via Kafka, and stores the transformed data in S3, making it accessible for analysis using AWS Glue and Athena.
 
+![image](https://github.com/user-attachments/assets/c4a47e3e-4dbd-4244-bec3-0f54d3b775e9)
+
 ## Steps
 
 ### 1. EC2 Setup
